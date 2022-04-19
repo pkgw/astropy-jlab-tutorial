@@ -7,3 +7,7 @@ FITS files.
 A shortlink to this repo is:
 
 ### <https://tinyurl.com/astropyjl>
+
+Peter’s suggestions for getting the software installed [are here][1].
+
+[1]: https://newton.cx/~peter/howto/install-astropy-jupyterlab/
